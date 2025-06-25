@@ -11,4 +11,4 @@ Made by **Sangram**
 
 problem statement: 
 https://roadmap.sh/projects/datepicker-ui
-by - Sangram
+
