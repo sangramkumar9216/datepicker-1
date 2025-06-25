@@ -6,7 +6,7 @@ A datepicker made using **HTML** and **Tailwind CSS**.
 
 ## 🧑‍💻 Author
 
-Made by **Sangram**
+Made BY **Sangram**
 
 
 problem statement: 
